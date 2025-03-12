@@ -1,12 +1,12 @@
 ## INTELLIGENT COURSEWORK EVALUATION AND PREDICTION (ICEP) SYSTEM DOCUMENTATION
-## COURSEWORK PERFORMANCE ANALYZER - PREDICTING UNIVERSITY EXAM OUTCOMES
+## COURSEWORK PERFORMANCE ANALYZER - PREDICTING FINAL UNIVERSITY EXAM ELIGIBILITY
 
 - 📍 **Location**: Dodoma, Tanzania
 - 📧 **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
 - 📱 **WhatsApp**: [+255675839840](https://wa.me/255675839840)
 - 🌐 **Demo**: [Online](https://opensciences.pythonanywhere.com/)
 
-### The System Will Analyze Student Coursework to Determine Exam Eligibility:
+### The System Will Analyze Student Coursework to Determine Final University Examination Eligibility:
 
 | #  | Analysis Task |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------|
