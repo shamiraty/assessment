@@ -6,6 +6,22 @@
 - 📱 **WhatsApp**: [+255675839840](https://wa.me/255675839840)
 - 🌐 **Demo**: [Online](https://opensciences.pythonanywhere.com/)
 
+### The System Will Analyze Student Coursework to Determine Exam Eligibility:
+
+| #  | Analysis Task |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | The system will predict the subject in which most students will fail the university exam based on coursework scores below 20. It will provide the subject name and the number of failing students. |
+| 2  | The system will predict the subject in which most students will pass the university exam based on coursework scores of 20 or above. It will provide the subject name and the number of passing students. |
+| 3  | The system will predict the subject in which most students will achieve high distinction in the university exam based on coursework scores above 30. It will provide the subject name and the number of high-achieving students. |
+| 4  | The system will list the names of students who are at risk of failing the university exam due to coursework scores below 20. It will provide the subject name and the number of failing students. |
+| 5  | The system will list the names of students who are eligible to sit for the university exam based on coursework scores of 20 or above. It will provide the subject name and the number of passing students. |
+| 6  | The system will list the names of students who are likely to achieve high distinction in the university exam based on coursework scores above 30. It will provide the subject name and the number of high-achieving students. |
+| 7  | The system will identify departments where a significant number of students may be ineligible to sit for the university exam due to coursework scores below 20. |
+| 8  | The system will identify departments where a significant number of students are eligible to sit for the university exam with coursework scores of 20 or above. |
+| 9  | The system will identify departments where a significant number of students are likely to achieve high distinction with coursework scores above 30. |
+| 10 | The system will provide an overall analysis of student performance to determine how coursework affects eligibility for the university exam. |
+| 11 | The system will display the overall count of students eligible and ineligible to sit for the university exam based on coursework performance. |
+
 ## 1. Overview
 
 The Intelligent Coursework Evaluation and Prediction (ICEP) system is designed to analyze student coursework performance and predict their likelihood of success in university exams. This system employs machine learning models to provide valuable insights to educators and students.
