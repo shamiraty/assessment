@@ -1,5 +1,6 @@
 ## INTELLIGENT COURSEWORK EVALUATION AND PREDICTION (ICEP) SYSTEM DOCUMENTATION
 ## COURSEWORK PERFORMANCE ANALYZER - PREDICTING FINAL UNIVERSITY EXAM ELIGIBILITY
+![screenshot_15](https://github.com/user-attachments/assets/4567659d-0750-469b-a9cf-3e99debac4dd)
 
 - 📍 **Location**: Dodoma, Tanzania
 - 📧 **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
